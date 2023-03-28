@@ -1,3 +1,12 @@
+https://jothivelsreactcalculator.netlify.app/
+
+
+This is a simple calculator application built using React JS and deployed in netlify.The app allows users to perform basic arithmetic operations such as addition, subtraction, multiplication, and division. The user interface is intuitive and easy to use, with large buttons and clear display of input and output. The app uses stateful components and event handling to ensure accurate calculations and real-time updates of the result. This project helped me to strengthen my understanding of React JS and improve my skills in building user-friendly web applications
+
+
+
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
